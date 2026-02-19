@@ -30,21 +30,19 @@ Phase 2: Ensemble & Boosting (The Powerhouses)
  2(a).[Random Forest Classification](https://github.com/Itzzdarshan/RFcla)
 2(b).[Random Forest Regression](https://github.com/Itzzdarshan/RFreg)
    * The Wisdom of the Crowd: An ensemble of 100+ trees. The majority vote wins, making it robust against noise.
-3. AdaBoost
-    * Adaptive Boosting: Sequential learning that focuses 90% of its effort on the mistakes made by the previous tree.
-4. [Gradient Boosting](https://github.com/Itzzdarshan/GBclassification)
+3. [Gradient Boosting](https://github.com/Itzzdarshan/GBclassification)
     * Sequential Correction: Builds trees one-by-one to predict and fix the "Residuals" (errors) of the previous tree.
-5. [XGBoost](https://github.com/Itzzdarshan/XGBclas)
+4. [XGBoost](https://github.com/Itzzdarshan/XGBclas)
     * The Grandmaster: An optimized, high-speed version of Gradient Boosting. The current "Gold Standard" in data science.
-6. [DBSCAN](https://github.com/Itzzdarshan/Dbscan)
+5. [DBSCAN](https://github.com/Itzzdarshan/Dbscan)
     * The game-changer: Unlike K-Means, it doesn't need to know how many clusters there are beforehand, and it is an expert at spotting "outliers" (the loners).
 
 Phase 3: Unsupervised Learning & Optimization
 1. [K-Means](https://github.com/Itzzdarshan/KMeans)
     * The Data Grouper: Automatically finds hidden patterns and groups data into $K$ clusters based on similarity.
-2. Hierarchical Clustering
+2. [Hierarchical Clustering](https://github.com/Itzzdarshan/HierarchicalC)
     * The Dendrogram: Groups data in a tree-like hierarchy, from individual points to one giant cluster.
-3. PCA (Principal Component Analysis)
+3. [PCA (Principal Component Analysis)](https://github.com/Itzzdarshan/PCA)
     * The Simplifier: Reduces the number of variables in a dataset while keeping the most important information.
 
 
