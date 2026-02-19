@@ -31,7 +31,7 @@ To master AI, you must speak its native language. This section deep-dives into t
 
 *Click on any algorithm name below to visit its specific repository for code, datasets, and deep-dive tutorials.*
 
-### 📈 Phase 1: Supervised Learning (Regression & Distance)
+### Phase 1: Supervised Learning (Regression & Distance)
 
 1. **[Linear Regression](https://github.com/Itzzdarshan/LinearReg)**
 * **The Trend Seeker:** Predicts continuous numerical values (like housing prices or stock trends) by fitting a line through data using .
