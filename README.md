@@ -23,6 +23,7 @@ Phase 1: Supervised Learning (Regression & Distance)
 Phase 2: Ensemble & Boosting (The Powerhouses)
 1. [Decision Tree](https://github.com/Itzzdarshan/Dtree)
     * The Flowchart: A "Choose Your Own Adventure" logic that splits data into branches based on questions.
+      
 2(a).[Random Forest Classification](https://github.com/Itzzdarshan/RFcla)
 2(b).[Random Forest Regression](https://github.com/Itzzdarshan/RFreg)
    * The Wisdom of the Crowd: An ensemble of 100+ trees. The majority vote wins, making it robust against noise.
@@ -32,9 +33,11 @@ Phase 2: Ensemble & Boosting (The Powerhouses)
     * Sequential Correction: Builds trees one-by-one to predict and fix the "Residuals" (errors) of the previous tree.
 5. [XGBoost](https://github.com/Itzzdarshan/XGBclas)
     * The Grandmaster: An optimized, high-speed version of Gradient Boosting. The current "Gold Standard" in data science.
+6. [DBSCAN](https://github.com/Itzzdarshan/Dbscan)
+    * The game-changer: Unlike K-Means, it doesn't need to know how many clusters there are beforehand, and it is an expert at spotting "outliers" (the loners).
 
 Phase 3: Unsupervised Learning & Optimization
-1. K-Means(https://github.com/Itzzdarshan/KMeans)
+1. [K-Means](https://github.com/Itzzdarshan/KMeans)
     * The Data Grouper: Automatically finds hidden patterns and groups data into $K$ clusters based on similarity.
 2. Hierarchical Clustering
     * The Dendrogram: Groups data in a tree-like hierarchy, from individual points to one giant cluster.
