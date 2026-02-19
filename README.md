@@ -10,6 +10,13 @@ Machine Learning (ML) is the backbone of modern Artificial Intelligence. These f
 Libraries: Pandas and NumPy are used for data manipulation and math, while Matplotlib visualizes trends and Scikit-Learn implements the machine learning models.
 Workflow: The process moves from Preprocessing and EDA to Train-Test Splitting, followed by model Training, Evaluation, and final Hyperparameter Tuning.
 
+[Mathematical Foundations for Machine Learning](https://github.com/Itzzdarshan/DS_Maths)
+To build and optimize models, you must understand the "language" they speak. Below is the three mathematical pillars of Data Science.
+1.Probability
+2.Linear Algebra
+3.Statistics 
+(click the link for deep dive tutorial)
+
 Click on any algorithm name to visit its specific repository for code, datasets, and deep-dive tutorials.
 Phase 1: Supervised Learning (Regression & Distance)
 1. [Linear Regression](https://github.com/Itzzdarshan/LinearReg)
