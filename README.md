@@ -98,9 +98,10 @@ To master AI, you must speak its native language. This section deep-dives into t
 
 To move from theory to production, I utilize several advanced optimization techniques:
 
-* **Model Validation:** Using **K-Fold Cross Validation** to ensure the model performs on unseen data.
-* **Tuning:** Automating the search for the best "knobs" using **GridSearchCV** and **RandomizedSearchCV**.
+* [**Model Validation:**](https://github.com/Itzzdarshan/CrossVal) Using **K-Fold Cross Validation** to ensure the model performs on unseen data.
+* [**Tuning:**](https://github.com/Itzzdarshan/Tuning) Automating the search for the best "knobs" using **GridSearchCV** and **RandomizedSearchCV**.
 * **Deployment:** Turning models into interactive web apps via **Streamlit** or **Flask**, and serializing them with **Joblib**.
+* [**Feature Selection:**](https://github.com/Itzzdarshan/FeatureSel) Filter, Wrapper Methods & Embedded Method.
 
 ## Upcoming Additions
 
