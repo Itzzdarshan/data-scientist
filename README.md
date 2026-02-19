@@ -1,11 +1,14 @@
 # DATA SCIENTIST
 
-Machine Learning Foundations & Roadmap
+[Machine Learning Foundations](https://github.com/Itzzdarshan/Day-1-dstraining)
 Welcome to the Machine Learning Foundations repository. This project is a comprehensive guide designed to take you from the basic concepts of Data Science to advanced industry-standard algorithms.
 
 Introduction
 Machine Learning (ML) is the backbone of modern Artificial Intelligence. These fields help computers analyze data, learn patterns, and make intelligent decisions without being explicitly programmed for every task. This repository serves as a theoretical foundation, while the linked repositories provide practical, hands-on implementations.
 
+[Python Libraries & Machine Learning Workflow](https://github.com/Itzzdarshan/Day-2-dstraining) 
+Libraries: Pandas and NumPy are used for data manipulation and math, while Matplotlib visualizes trends and Scikit-Learn implements the machine learning models.
+Workflow: The process moves from Preprocessing and EDA to Train-Test Splitting, followed by model Training, Evaluation, and final Hyperparameter Tuning.
 
 Click on any algorithm name to visit its specific repository for code, datasets, and deep-dive tutorials.
 Phase 1: Supervised Learning (Regression & Distance)
@@ -24,7 +27,7 @@ Phase 2: Ensemble & Boosting (The Powerhouses)
 1. [Decision Tree](https://github.com/Itzzdarshan/Dtree)
     * The Flowchart: A "Choose Your Own Adventure" logic that splits data into branches based on questions.
       
-2(a).[Random Forest Classification](https://github.com/Itzzdarshan/RFcla)
+ 2(a).[Random Forest Classification](https://github.com/Itzzdarshan/RFcla)
 2(b).[Random Forest Regression](https://github.com/Itzzdarshan/RFreg)
    * The Wisdom of the Crowd: An ensemble of 100+ trees. The majority vote wins, making it robust against noise.
 3. AdaBoost
@@ -43,4 +46,27 @@ Phase 3: Unsupervised Learning & Optimization
     * The Dendrogram: Groups data in a tree-like hierarchy, from individual points to one giant cluster.
 3. PCA (Principal Component Analysis)
     * The Simplifier: Reduces the number of variables in a dataset while keeping the most important information.
+
+
+ML Engineering & Optimization
+
+Bias–Variance Tradeoff
+K-Fold Cross Validation
+GridSearchCV
+RandomizedSearchCV
+Feature Selection (Filter, Wrapper, Embedded)
+Model Serialization (Joblib)
+Streamlit Deployment
+Flask Deployment
+
+
+
+Upcoming Additions
+
+XGBoost Advanced Tuning
+Deep Learning Projects
+NLP Applications
+Model Monitoring
+Docker Deployment
+CI/CD for ML Apps
 
